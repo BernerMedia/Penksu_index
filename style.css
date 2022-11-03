@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+
+    font-family: poppins;
+}
+
+.tieto {
+    padding-top: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-left: 50px;
+
+}
